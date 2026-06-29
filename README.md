@@ -11,3 +11,7 @@ python -m http.server 8000
 ```
 
 Then visit http://localhost:8000
+
+You can also open the local file directly:
+
+`file:///C:/Users/venka/Downloads/NumberGame/index.html`
