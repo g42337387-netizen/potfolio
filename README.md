@@ -10,8 +10,7 @@ Open `index.html` in a browser, or serve the folder with a simple static server:
 python -m http.server 8000
 ```
 
-Then visit http://localhost:8000
+Then visit one of these:
 
-You can also open the local file directly:
-
-`file:///C:/Users/venka/Downloads/NumberGame/index.html`
+- http://localhost:8000
+- file:///C:/Users/venka/Downloads/NumberGame/index.html
